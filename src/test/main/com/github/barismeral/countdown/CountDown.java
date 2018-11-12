@@ -1,4 +1,4 @@
-package com.barismeral.utils.countdown;
+package com.github.barismeral.countdown;
 
 import java.util.Timer;
 import java.util.TimerTask;

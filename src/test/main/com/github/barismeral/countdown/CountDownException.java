@@ -1,4 +1,5 @@
-package com.barismeral.utils.countdown;
+package com.github.barismeral.countdown;
+
 
 /**
  * @author Barış Meral
